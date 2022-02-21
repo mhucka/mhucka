@@ -8,7 +8,7 @@ Some quick links:
 <p align="center">
 <table align="center">
 <tr><td>
-<a href="https://www.cds.caltech.edu/~mhucka/"><img align="center" height="20" src="https://raw.githubusercontent.com/mhucka/mhucka-website/master/site/media/icons/document.png?token=GHSAT0AAAAAABKQGVENC3JTQDO6GELPGFPGYQ462VQ">&nbsp;&nbsp;Publications list</a>
+<a href="http://scholar.google.com/citations/user=uxgtUyYaaAAj&pagesize=100"><img align="center" height="20" src="https://raw.githubusercontent.com/mhucka/mhucka-website/master/site/media/icons/document.png?token=GHSAT0AAAAAABKQGVENC3JTQDO6GELPGFPGYQ462VQ">&nbsp;&nbsp;Publications list</a>
 </td><td>
 <a href="https://www.cds.caltech.edu/~mhucka"><img align="center" height="20" src="https://raw.githubusercontent.com/mhucka/mhucka-website/master/site/media/icons/home.png?token=GHSAT0AAAAAABKQGVENMJOO6ZBPVAMK5WL6YQ4635Q">&nbsp;&nbsp;Home page</a>
 </td><td>
