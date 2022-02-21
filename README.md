@@ -4,7 +4,6 @@ I'm a Member of the Professional Staff at the [California Institute of Technolog
 
 My contributions to research and software to date have spanned systems biology, computational neuroscience, machine learning, artificial intelligence, cognitive science, data preservation, and library services.
 
-Some quick links:
 <p align="center">
 <table align="center">
 <tr><td>
