@@ -2,7 +2,7 @@
 
 I'm a Member of the Professional Staff at the [California Institute of Technology](https://www.caltech.edu), with a Ph.D. in computer science and 30+ years of experience as researcher, principal investigator, distributed team leader, international community organizer, open-standards creator, software architect, and full-stack software developer.
 
-My contributions to research and software to date have spanned systems biology, computational neuroscience, machine learning, artificial intelligence, cognitive science, and library services.
+My contributions to research and software to date have spanned systems biology, computational neuroscience, machine learning, artificial intelligence, cognitive science, data preservation, and library services.
 
 Some quick links:
 <p align="center">
