@@ -1,3 +1,3 @@
-# Hi, I'm Mike, and thanks for visiting my GitHub profile!
+# Hi, I'm <a target="_blank" href="https://www.cds.caltech.edu/~mhucka">Mike</a> &ndash; thanks for visiting my GitHub profile!
 
-I'm a Member of the Professional Staff at the [California Institute of Technology](https://www.caltech.edu), with a Ph.D. in computer science and 30+ years of experience as researcher, principal investigator, distributed team leader, international community organizer, open-standards creator, software architect, and full-stack software developer.
+I'm a Member of the Professional Staff at the [California Institute of Technology](https://www.caltech.edu), with a Ph.D. in computer science and 30+ years of experience as researcher, principal investigator, distributed team leader, international community organizer, open-standards creator, software architect, and full-stack software developer. I've contributed to research and software in systems biology, computational neuroscience, machine learning, artificial intelligence, cognitive science, and library services.
