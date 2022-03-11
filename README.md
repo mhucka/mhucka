@@ -7,9 +7,9 @@ My contributions to research and software to date have spanned systems biology, 
 <p align="center">
 <table align="center">
 <tr><td>
-<a href="https://www.cds.caltech.edu/~mhucka"><img align="center" height="20" src="https://raw.githubusercontent.com/mhucka/mhucka-website/master/site/media/icons/home.png?token=GHSAT0AAAAAABKQGVENMJOO6ZBPVAMK5WL6YQ4635Q">&nbsp;&nbsp;Home page</a>
+<a href="https://www.cds.caltech.edu/~mhucka"><img align="center" height="20" src="https://github.com/mhucka/mhucka/blob/main/.graphics/home.png">&nbsp;&nbsp;Home page</a>
 </td><td>
-<a href="https://scholar.google.com/citations?user=uXGtUyYAAAAJ&pagesize=100"><img align="center" height="20" src="https://raw.githubusercontent.com/mhucka/mhucka-website/master/site/media/icons/document.png?token=GHSAT0AAAAAABKQGVENC3JTQDO6GELPGFPGYQ462VQ">&nbsp;&nbsp;Publications list</a>
+<a href="https://scholar.google.com/citations?user=uXGtUyYAAAAJ&pagesize=100"><img align="center" height="20" src="https://github.com/mhucka/mhucka/blob/main/.graphics/document.png">&nbsp;&nbsp;Publications list</a>
 </td><td>
 <a href="https://sbml.org"><img align="center" height="20" src="https://raw.githubusercontent.com/sbmlteam/sbml-org-website/main/site/static/img/icon-192.png">&nbsp;&nbsp;SBML portal</a>
 </td></tr>
