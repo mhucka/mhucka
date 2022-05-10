@@ -1,8 +1,8 @@
-<p align="center"><b>Hello, I'm Mike &ndash; thanks for visiting my GitHub profile!</b></p>
+## 👋 Hello and thanks for visiting my [GitHub profile](https://github.com/mhucka)!
 
-I'm a Member of the Professional Staff at the [California Institute of Technology](https://www.caltech.edu), with a Ph.D. in computer science. I've been a researcher, principal investigator, distributed team leader, international community organizer, open-standards creator, open-source software architect, and full-stack software developer &ndash; often all at once!
+I'm a Member of the Professional Staff at the [California Institute of Technology](https://www.caltech.edu). I've been a researcher, principal investigator, distributed team leader, international community organizer, open-standards creator, open-source software architect, and full-stack software developer &ndash; often all at once!
 
-My contributions to research and software to date have spanned systems biology, computational neuroscience, machine learning, artificial intelligence, cognitive science, data preservation, and library services.
+My contributions to research and software to date have spanned systems biology, computational neuroscience, cognitive science, artificial intelligence, machine learning, data preservation, and library services.
 
 <p align="center">
 <table align="center">
