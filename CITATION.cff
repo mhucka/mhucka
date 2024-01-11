@@ -1,18 +1,18 @@
-# YAML 1.2
----
-authors: 
-  -
-    affiliation: "california institute of technology"
-    given-names: Mike
-    family-names: Hucka
-    orcid: "0000-0001-9105-5960"
-cff-version: "1.1.0"
-message: "If you use this software, please cite it using these metadata."
-repository-code: "https://github.com/mhucka/mhucka"
+cff-version: 1.2.0
+message: "When citing this repository, please use the metadata from this file."
+authors:
+  - family-names: Hucka
+    given-names: Michael
+    email: mhucka@caltech.edu
+    orcid: https://orcid.org/0000-0001-9105-5960
 title: "Mike Hucka's GitHub README"
-date-released: 2022-02-21
-version: "0.0.1"
-keywords: 
+abstract: "The contents shown near the top of my profile page on GitHub."
+version: 0.0.2
+date-released: 2024-01-11
+url: "https://mhucka.github.io/MHUCKA"
+repository-code: "https://github.com/mhucka/MHUCKA"
+license: MIT
+type: software
+keywords:
   - GitHub
   - README
-...
