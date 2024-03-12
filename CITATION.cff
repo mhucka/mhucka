@@ -5,9 +5,9 @@ authors:
     given-names: Michael
     email: mhucka@caltech.edu
     orcid: https://orcid.org/0000-0001-9105-5960
-title: Mike's GitHub README file
+title: Mike's GitHub README landing page
 abstract: The contents shown near the top of my profile page on GitHub.
-version: 0.0.3
+version: 0.0.4
 date-released: 2024-03-11
 repository-code: https://github.com/mhucka/mhucka
 license: MIT
